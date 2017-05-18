@@ -1,0 +1,7 @@
+Does this organism have jointed legs?
+Does this organism have 6 jointed legs?
+Does this organism have a portable case?
+Does this organism have wing pads or wings?
+Does this organism have tail filaments?
+Does this organism have observable anal hooks?
+Does this organism have a worm-like body?
